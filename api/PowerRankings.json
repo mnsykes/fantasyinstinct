@@ -1,0 +1,886 @@
+{
+    "powerRanking": [
+        {
+            "scoringPeriod": 1,
+            "date": "Wed Mar 25, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "fowe0sxcmhairboi",
+                    "homeTeamTotal": 78,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "hblx3vpumhairboo",
+                    "awayTeamTotal": 119.667,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "lglf8tkemhairbon",
+                    "homeTeamTotal": 65.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "fukfyy5jmhairbom",
+                    "awayTeamTotal": 134.667,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "6c3qqgj9mhairboo",
+                    "homeTeamTotal": 106,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "5liza9y3mhairboj",
+                    "awayTeamTotal": 98,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "397vx1zsmhairbok",
+                    "homeTeamTotal": 75,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "7spm4ihomhairbop",
+                    "awayTeamTotal": 48,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "qsnercq5mlh2ngul",
+                    "homeTeamTotal": 91,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "f9a3hseymlec784v",
+                    "awayTeamTotal": 42.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "rk3t1r5jmhairboh",
+                    "homeTeamTotal": 49.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "f2e7itnimhairbol",
+                    "awayTeamTotal": 152.333,
+                    "awayPeriodWin": 1
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 2,
+            "date": "Fri Mar 27, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "fukfyy5jmhairbom",
+                    "homeTeamTotal": 290.333,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "fowe0sxcmhairboi",
+                    "awayTeamTotal": 231.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "5liza9y3mhairboj",
+                    "homeTeamTotal": 178.333,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "hblx3vpumhairboo",
+                    "awayTeamTotal": 187.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "7spm4ihomhairbop",
+                    "homeTeamTotal": 180,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "lglf8tkemhairbon",
+                    "awayTeamTotal": 189,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "f9a3hseymlec784v",
+                    "homeTeamTotal": 171.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "6c3qqgj9mhairboo",
+                    "awayTeamTotal": 182,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "f2e7itnimhairbol",
+                    "homeTeamTotal": 177.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "397vx1zsmhairbok",
+                    "awayTeamTotal": 216.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "rk3t1r5jmhairboh",
+                    "homeTeamTotal": 177.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "qsnercq5mlh2ngul",
+                    "awayTeamTotal": 170.667,
+                    "awayPeriodWin": 0
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 3,
+            "date": "Mon Mar 30, 2026",
+            "matchups": [
+            {
+                "homeTeamId": "fowe0sxcmhairboi",
+                "homeTeamTotal": 219.333,
+                "homePeriodWin": 0,
+                "awayTeamId": "5liza9y3mhairboj",
+                "awayTeamTotal": 295.333,
+                "awayPeriodWin": 1
+            },
+            {
+                "homeTeamId": "fukfyy5jmhairbom",
+                "homeTeamTotal": 255,
+                "homePeriodWin": 0,
+                "awayTeamId": "7spm4ihomhairbop",
+                "awayTeamTotal": 259.333,
+                "awayPeriodWin": 1
+            },
+            {
+                "homeTeamId": "hblx3vpumhairboo",
+                "homeTeamTotal": 247.333,
+                "homePeriodWin": 1,
+                "awayTeamId": "f9a3hseymlec784v",
+                "awayTeamTotal": 200.667,
+                "awayPeriodWin": 0
+            },
+            {
+                "homeTeamId": "lglf8tkemhairbon",
+                "homeTeamTotal": 303.333,
+                "homePeriodWin": 1,
+                "awayTeamId": "f2e7itnimhairbol",
+                "awayTeamTotal": 298.333,
+                "awayPeriodWin": 0
+            },
+            {
+                "homeTeamId": "6c3qqgj9mhairboo",
+                "homeTeamTotal": 224.667,
+                "homePeriodWin": 1,
+                "awayTeamId": "rk3t1r5jmhairboh",
+                "awayTeamTotal": 215,
+                "awayPeriodWin": 0
+            },
+            {
+                "homeTeamId": "397vx1zsmhairbok",
+                "homeTeamTotal": 179.333,
+                "homePeriodWin": 0,
+                "awayTeamId": "qsnercq5mlh2ngul",
+                "awayTeamTotal": 257.333,
+                "awayPeriodWin": 1
+            }
+        ]
+        },
+        {
+            "scoringPeriod": 4,
+            "date": "Fri Apr 3, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "7spm4ihomhairbop",
+                    "homeTeamTotal": 312.333,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "fowe0sxcmhairboi",
+                    "awayTeamTotal": 260.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "f9a3hseymlec784v",
+                    "homeTeamTotal": 269.333,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "5liza9y3mhairboj",
+                    "awayTeamTotal": 234.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "f2e7itnimhairbol",
+                    "homeTeamTotal": 205.333,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "fukfyy5jmhairbom",
+                    "awayTeamTotal": 180.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "rk3t1r5jmhairboh",
+                    "homeTeamTotal": 261.333,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "hblx3vpumhairboo",
+                    "awayTeamTotal": 339.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "qsnercq5mlh2ngul",
+                    "homeTeamTotal": 278.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "lglf8tkemhairbon",
+                    "awayTeamTotal": 228.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "397vx1zsmhairbok",
+                    "homeTeamTotal": 247,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "6c3qqgj9mhairboo",
+                    "awayTeamTotal": 170,
+                    "awayPeriodWin": 0
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 5,
+            "date": "Mon Apr 6, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "fowe0sxcmhairboi",
+                    "homeTeamTotal": 193,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "f9a3hseymlec784v",
+                    "awayTeamTotal": 240,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "7spm4ihomhairbop",
+                    "homeTeamTotal": 313.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "f2e7itnimhairbol",
+                    "awayTeamTotal": 258,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "5liza9y3mhairboj",
+                    "homeTeamTotal": 311.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "rk3t1r5jmhairboh",
+                    "awayTeamTotal": 271.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "fukfyy5jmhairbom",
+                    "homeTeamTotal": 249.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "qsnercq5mlh2ngul",
+                    "awayTeamTotal": 225.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "hblx3vpumhairboo",
+                    "homeTeamTotal": 232.333,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "397vx1zsmhairbok",
+                    "awayTeamTotal": 266.667,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "lglf8tkemhairbon",
+                    "homeTeamTotal": 242.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "6c3qqgj9mhairboo",
+                    "awayTeamTotal": 139.333,
+                    "awayPeriodWin": 0
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 6,
+            "date": "Fri Apr 10, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "f2e7itnimhairbol",
+                    "homeTeamTotal": 299.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "fowe0sxcmhairboi",
+                    "awayTeamTotal": 189.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "rk3t1r5jmhairboh",
+                    "homeTeamTotal": 221.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "f9a3hseymlec784v",
+                    "awayTeamTotal": 161.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "qsnercq5mlh2ngul",
+                    "homeTeamTotal": 236.333,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "7spm4ihomhairbop",
+                    "awayTeamTotal": 335.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "397vx1zsmhairbok",
+                    "homeTeamTotal": 209.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "5liza9y3mhairboj",
+                    "awayTeamTotal": 202.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "6c3qqgj9mhairboo",
+                    "homeTeamTotal": 138.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "fukfyy5jmhairbom",
+                    "awayTeamTotal": 250,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "lglf8tkemhairbon",
+                    "homeTeamTotal": 207,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "hblx3vpumhairboo",
+                    "awayTeamTotal": 323,
+                    "awayPeriodWin": 1
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 7,
+            "date": "Mon Apr 13, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "fowe0sxcmhairboi",
+                    "homeTeamTotal": 200.333,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "rk3t1r5jmhairboh",
+                    "awayTeamTotal": 252.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "f2e7itnimhairbol",
+                    "homeTeamTotal": 383,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "qsnercq5mlh2ngul",
+                    "awayTeamTotal": 285.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "f9a3hseymlec784v",
+                    "homeTeamTotal": 190,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "397vx1zsmhairbok",
+                    "awayTeamTotal": 236,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "7spm4ihomhairbop",
+                    "homeTeamTotal": 269,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "6c3qqgj9mhairboo",
+                    "awayTeamTotal": 295.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "5liza9y3mhairboj",
+                    "homeTeamTotal": 304,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "lglf8tkemhairbon",
+                    "awayTeamTotal": 265.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "fukfyy5jmhairbom",
+                    "homeTeamTotal": 360.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "hblx3vpumhairboo",
+                    "awayTeamTotal": 277,
+                    "awayPeriodWin": 0
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 8,
+            "date": "Fri Apr 17, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "qsnercq5mlh2ngul",
+                    "homeTeamTotal": 261.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "fowe0sxcmhairboi",
+                    "awayTeamTotal": 214,
+                    "awayPeriodWin": 0
+
+                },
+                {
+                    "homeTeamId": "397vx1zsmhairbok",
+                    "homeTeamTotal": 242,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "rk3t1r5jmhairboh",
+                    "awayTeamTotal": 281.667,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "6c3qqgj9mhairboo",
+                    "homeTeamTotal": 289.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "f2e7itnimhairbol",
+                    "awayTeamTotal": 293.667,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "lglf8tkemhairbon",
+                    "homeTeamTotal": 281.333,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "f9a3hseymlec784v",
+                    "awayTeamTotal": 210.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "hblx3vpumhairboo",
+                    "homeTeamTotal": 230.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "7spm4ihomhairbop",
+                    "awayTeamTotal": 278,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "fukfyy5jmhairbom",
+                    "homeTeamTotal": 251,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "5liza9y3mhairboj",
+                    "awayTeamTotal": 244,
+                    "awayPeriodWin": 0
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 9,
+            "date": "Mon Apr 20, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "fowe0sxcmhairboi",
+                    "homeTeamTotal": 299.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "397vx1zsmhairbok",
+                    "awayTeamTotal": 292.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "qsnercq5mlh2ngul",
+                    "homeTeamTotal": 253.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "6c3qqgj9mhairboo",
+                    "awayTeamTotal": 280.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "rk3t1r5jmhairboh",
+                    "homeTeamTotal": 330,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "lglf8tkemhairbon",
+                    "awayTeamTotal": 244,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "f2e7itnimhairbol",
+                    "homeTeamTotal": 319.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "hblx3vpumhairboo",
+                    "awayTeamTotal": 298.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "f9a3hseymlec784v",
+                    "homeTeamTotal": 247.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "fukfyy5jmhairbom",
+                    "awayTeamTotal": 329.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "7spm4ihomhairbop",
+                    "homeTeamTotal": 271,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "5liza9y3mhairboj",
+                    "awayTeamTotal": 240,
+                    "awayPeriodWin": 0
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 10,
+            "date": "Fri Apr 24, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "6c3qqgj9mhairboo",
+                    "homeTeamTotal": 220.333,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "fowe0sxcmhairboi",
+                    "awayTeamTotal": 301.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "lglf8tkemhairbon",
+                    "homeTeamTotal": 224.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "397vx1zsmhairbok",
+                    "awayTeamTotal": 283.667,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "hblx3vpumhairboo",
+                    "homeTeamTotal": 245.333,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "qsnercq5mlh2ngul",
+                    "awayTeamTotal": 222.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "fukfyy5jmhairbom",
+                    "homeTeamTotal": 230.333,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "rk3t1r5jmhairboh",
+                    "awayTeamTotal": 254.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "5liza9y3mhairboj",
+                    "homeTeamTotal": 284.333,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "f2e7itnimhairbol",
+                    "awayTeamTotal": 292,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "7spm4ihomhairbop",
+                    "homeTeamTotal": 272.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "f9a3hseymlec784v",
+                    "awayTeamTotal": 221.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "f2e7itnimhairbol",
+                    "homeTeamTotal": 292,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "397vx1zsmhairbok",
+                    "awayTeamTotal": 283.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "f9a3hseymlec784v",
+                    "homeTeamTotal": 221.333,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "6c3qqgj9mhairboo",
+                    "awayTeamTotal": 220.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "fukfyy5jmhairbom",
+                    "homeTeamTotal": 230.333,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "fowe0sxcmhairboi",
+                    "awayTeamTotal": 301.333,
+                    "awayPeriodWin": 1
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 11,
+            "date": "Mon Apr 27, 2026",
+            "matchups": [
+            {
+                "homeTeamId": "fowe0sxcmhairboi",
+                "homeTeamTotal": 172.667,
+                "homePeriodWin": 0,
+                "awayTeamId": "lglf8tkemhairbon",
+                "awayTeamTotal": 337,
+                "awayPeriodWin": 1
+            },
+            {
+                "homeTeamId": "6c3qqgj9mhairboo",
+                "homeTeamTotal": 384.667,
+                "homePeriodWin": 1,
+                "awayTeamId": "hblx3vpumhairboo",
+                "awayTeamTotal": 253.333,
+                "awayPeriodWin": 0
+            },
+            {
+                "homeTeamId": "397vx1zsmhairbok",
+                "homeTeamTotal": 251,
+                "homePeriodWin": 0,
+                "awayTeamId": "fukfyy5jmhairbom",
+                "awayTeamTotal": 266.333,
+                "awayPeriodWin": 1
+            },
+            {
+                "homeTeamId": "qsnercq5mlh2ngul",
+                "homeTeamTotal": 166.667,
+                "homePeriodWin": 0,
+                "awayTeamId": "5liza9y3mhairboj",
+                "awayTeamTotal": 292.333,
+                "awayPeriodWin": 1
+            },
+            {
+                "homeTeamId": "rk3t1r5jmhairboh",
+                "homeTeamTotal": 280.667,
+                "homePeriodWin": 0,
+                "awayTeamId": "7spm4ihomhairbop",
+                "awayTeamTotal": 295.333,
+                "awayPeriodWin": 1
+            },
+            {
+                "homeTeamId": "f2e7itnimhairbol",
+                "homeTeamTotal": 275,
+                "homePeriodWin": 1,
+                "awayTeamId": "f9a3hseymlec784v",
+                "awayTeamTotal": 194,
+                "awayPeriodWin": 0
+            },
+            {
+                "homeTeamId": "5liza9y3mhairboj",
+                "homeTeamTotal": 292.333,
+                "homePeriodWin": 1,
+                "awayTeamId": "hblx3vpumhairboo",
+                "awayTeamTotal": 253.333,
+                "awayPeriodWin": 0
+            },
+            {
+                "homeTeamId": "7spm4ihomhairbop",
+                "homeTeamTotal": 295.333,
+                "homePeriodWin": 0,
+                "awayTeamId": "lglf8tkemhairbon",
+                "awayTeamTotal": 337,
+                "awayPeriodWin": 1
+            },
+            {
+                "homeTeamId": "rk3t1r5jmhairboh",
+                "homeTeamTotal": 280.667,
+                "homePeriodWin": 1,
+                "awayTeamId": "qsnercq5mlh2ngul",
+                "awayTeamTotal": 166.667,
+                "awayPeriodWin": 0
+            }
+        ]
+        },
+        {
+            "scoringPeriod": 12,
+            "date": "Fri May 1, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "hblx3vpumhairboo",
+                    "homeTeamTotal": 211.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "fowe0sxcmhairboi",
+                    "awayTeamTotal": 238.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "fukfyy5jmhairbom",
+                    "homeTeamTotal": 171.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "lglf8tkemhairbon",
+                    "awayTeamTotal": 309,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "5liza9y3mhairboj",
+                    "homeTeamTotal": 210.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "6c3qqgj9mhairboo",
+                    "awayTeamTotal": 185.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "7spm4ihomhairbop",
+                    "homeTeamTotal": 375,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "397vx1zsmhairbok",
+                    "awayTeamTotal": 222.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "f9a3hseymlec784v",
+                    "homeTeamTotal": 282.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "qsnercq5mlh2ngul",
+                    "awayTeamTotal": 286,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "f2e7itnimhairbol",
+                    "homeTeamTotal": 344.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "rk3t1r5jmhairboh",
+                    "awayTeamTotal": 210.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "fowe0sxcmhairboi",
+                    "homeTeamTotal": 238.333,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "5liza9y3mhairboj",
+                    "awayTeamTotal": 210.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "fukfyy5jmhairbom",
+                    "homeTeamTotal": 171.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "7spm4ihomhairbop",
+                    "awayTeamTotal": 375,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "lglf8tkemhairbon",
+                    "homeTeamTotal": 309,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "f2e7itnimhairbol",
+                    "awayTeamTotal": 344.667,
+                    "awayPeriodWin": 1
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 13,
+            "date": "Mon May 4, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "fowe0sxcmhairboi",
+                    "homeTeamTotal": 285,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "fukfyy5jmhairbom",
+                    "awayTeamTotal": 358.333,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "hblx3vpumhairboo",
+                    "homeTeamTotal": 224.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "5liza9y3mhairboj",
+                    "awayTeamTotal": 216,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "lglf8tkemhairbon",
+                    "homeTeamTotal": 223,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "7spm4ihomhairbop",
+                    "awayTeamTotal": 298.667,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "6c3qqgj9mhairboo",
+                    "homeTeamTotal": 257.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "f9a3hseymlec784v",
+                    "awayTeamTotal": 283,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "397vx1zsmhairbok",
+                    "homeTeamTotal": 309,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "f2e7itnimhairbol",
+                    "awayTeamTotal": 255.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "qsnercq5mlh2ngul",
+                    "homeTeamTotal": 299,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "rk3t1r5jmhairboh",
+                    "awayTeamTotal": 253.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "hblx3vpumhairboo",
+                    "homeTeamTotal": 224.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "f9a3hseymlec784v",
+                    "awayTeamTotal": 283,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "397vx1zsmhairbok",
+                    "homeTeamTotal": 309,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "qsnercq5mlh2ngul",
+                    "awayTeamTotal": 299,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "6c3qqgj9mhairboo",
+                    "homeTeamTotal": 257.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "rk3t1r5jmhairboh",
+                    "awayTeamTotal": 253.333,
+                    "awayPeriodWin": 0
+                }
+            ]
+        },
+        {
+            "scoringPeriod": 14,
+            "date": "Fri May 8, 2026",
+            "matchups": [
+                {
+                    "homeTeamId": "5liza9y3mhairboj",
+                    "homeTeamTotal": 233.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "fowe0sxcmhairboi",
+                    "awayTeamTotal": 180.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "7spm4ihomhairbop",
+                    "homeTeamTotal": 233.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "fukfyy5jmhairbom",
+                    "awayTeamTotal": 250.667,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "f9a3hseymlec784v",
+                    "homeTeamTotal": 190.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "hblx3vpumhairboo",
+                    "awayTeamTotal": 182.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "f2e7itnimhairbol",
+                    "homeTeamTotal": 284.333,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "lglf8tkemhairbon",
+                    "awayTeamTotal": 268.333,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "rk3t1r5jmhairboh",
+                    "homeTeamTotal": 187.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "6c3qqgj9mhairboo",
+                    "awayTeamTotal": 205.667,
+                    "awayPeriodWin": 1
+                },
+
+                {
+                    "homeTeamId": "qsnercq5mlh2ngul",
+                    "homeTeamTotal": 204.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "397vx1zsmhairbok",
+                    "awayTeamTotal": 295,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "f9a3hseymlec784v",
+                    "homeTeamTotal": 190.667,
+                    "homePeriodWin": 0,
+                    "awayTeamId": "5liza9y3mhairboj",
+                    "awayTeamTotal": 233.667,
+                    "awayPeriodWin": 1
+                },
+                {
+                    "homeTeamId": "397vx1zsmhairbok",
+                    "homeTeamTotal": 295,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "6c3qqgj9mhairboo",
+                    "awayTeamTotal": 205.667,
+                    "awayPeriodWin": 0
+                },
+                {
+                    "homeTeamId": "7spm4ihomhairbop",
+                    "homeTeamTotal": 233.667,
+                    "homePeriodWin": 1,
+                    "awayTeamId": "fowe0sxcmhairboi",
+                    "awayTeamTotal": 180.667,
+                    "awayPeriodWin": 0
+                }
+            ]
+        }
+    ]
+}
+
+
+
+

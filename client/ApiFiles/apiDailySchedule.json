@@ -1,0 +1,338 @@
+[
+  {
+    "gameID": "20260409_ARI@NYM",
+    "gameType": "REGULAR_SEASON",
+    "away": "ARI",
+    "gameTime": "7:10p",
+    "gameDate": "20260409",
+    "teamIDHome": "18",
+    "gameTime_epoch": "1775776200.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "1",
+    "probableStartingPitchers": {
+      "away": "593958",
+      "home": "690997"
+    },
+    "home": "NYM"
+  },
+  {
+    "gameID": "20260409_CIN@MIA",
+    "gameType": "REGULAR_SEASON",
+    "away": "CIN",
+    "gameTime": "12:10p",
+    "gameDate": "20260409",
+    "teamIDHome": "15",
+    "gameTime_epoch": "1775751000.0",
+    "probableStartingLineups": {
+      "away": [
+        {
+          "battingOrder": "1",
+          "playerID": "670770"
+        },
+        {
+          "battingOrder": "2",
+          "playerID": "680574"
+        },
+        {
+          "battingOrder": "3",
+          "playerID": "682829"
+        },
+        {
+          "battingOrder": "4",
+          "playerID": "701398"
+        },
+        {
+          "battingOrder": "5",
+          "playerID": "553993"
+        },
+        {
+          "battingOrder": "6",
+          "playerID": "663993"
+        },
+        {
+          "battingOrder": "7",
+          "playerID": "668715"
+        },
+        {
+          "battingOrder": "8",
+          "playerID": "667472"
+        },
+        {
+          "battingOrder": "9",
+          "playerID": "664731"
+        }
+      ],
+      "home": [
+        {
+          "battingOrder": "1",
+          "playerID": "805300"
+        },
+        {
+          "battingOrder": "2",
+          "playerID": "669364"
+        },
+        {
+          "battingOrder": "3",
+          "playerID": "682663"
+        },
+        {
+          "battingOrder": "4",
+          "playerID": "689414"
+        },
+        {
+          "battingOrder": "5",
+          "playerID": "672640"
+        },
+        {
+          "battingOrder": "6",
+          "playerID": "683357"
+        },
+        {
+          "battingOrder": "7",
+          "playerID": "665052"
+        },
+        {
+          "battingOrder": "8",
+          "playerID": "691594"
+        },
+        {
+          "battingOrder": "9",
+          "playerID": "688363"
+        }
+      ]
+    },
+    "teamIDAway": "7",
+    "probableStartingPitchers": {
+      "away": "695076",
+      "home": "676974"
+    },
+    "home": "MIA"
+  },
+  {
+    "gameID": "20260409_DET@MIN",
+    "gameType": "REGULAR_SEASON",
+    "away": "DET",
+    "gameTime": "1:40p",
+    "gameDate": "20260409",
+    "teamIDHome": "17",
+    "gameTime_epoch": "1775756400.0",
+    "probableStartingLineups": {
+      "away": [
+        {
+          "battingOrder": "1",
+          "playerID": "690993"
+        },
+        {
+          "battingOrder": "2",
+          "playerID": "650402"
+        },
+        {
+          "battingOrder": "3",
+          "playerID": "682985"
+        },
+        {
+          "battingOrder": "4",
+          "playerID": "681481"
+        },
+        {
+          "battingOrder": "5",
+          "playerID": "679529"
+        },
+        {
+          "battingOrder": "6",
+          "playerID": "656716"
+        },
+        {
+          "battingOrder": "7",
+          "playerID": "595879"
+        },
+        {
+          "battingOrder": "8",
+          "playerID": "678009"
+        },
+        {
+          "battingOrder": "9",
+          "playerID": "668670"
+        }
+      ],
+      "home": [
+        {
+          "battingOrder": "1",
+          "playerID": "621439"
+        },
+        {
+          "battingOrder": "2",
+          "playerID": "663616"
+        },
+        {
+          "battingOrder": "3",
+          "playerID": "605137"
+        },
+        {
+          "battingOrder": "4",
+          "playerID": "670242"
+        },
+        {
+          "battingOrder": "5",
+          "playerID": "605170"
+        },
+        {
+          "battingOrder": "6",
+          "playerID": "665019"
+        },
+        {
+          "battingOrder": "7",
+          "playerID": "668904"
+        },
+        {
+          "battingOrder": "8",
+          "playerID": "656484"
+        },
+        {
+          "battingOrder": "9",
+          "playerID": "681546"
+        }
+      ]
+    },
+    "teamIDAway": "10",
+    "probableStartingPitchers": {
+      "away": "656427",
+      "home": "690953"
+    },
+    "home": "MIN"
+  },
+  {
+    "gameID": "20260409_CHW@KC",
+    "gameType": "REGULAR_SEASON",
+    "away": "CHW",
+    "gameTime": "7:40p",
+    "gameDate": "20260409",
+    "teamIDHome": "12",
+    "gameTime_epoch": "1775778000.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "6",
+    "probableStartingPitchers": {
+      "away": "641743",
+      "home": "607625"
+    },
+    "home": "KC"
+  },
+  {
+    "gameID": "20260409_OAK@NYY",
+    "gameType": "REGULAR_SEASON",
+    "away": "OAK",
+    "gameTime": "1:35p",
+    "gameDate": "20260409",
+    "teamIDHome": "19",
+    "gameTime_epoch": "1775756100.0",
+    "probableStartingLineups": {
+      "away": [
+        {
+          "battingOrder": "1",
+          "playerID": "805779"
+        },
+        {
+          "battingOrder": "2",
+          "playerID": "701762"
+        },
+        {
+          "battingOrder": "3",
+          "playerID": "667670"
+        },
+        {
+          "battingOrder": "4",
+          "playerID": "628451"
+        },
+        {
+          "battingOrder": "5",
+          "playerID": "691777"
+        },
+        {
+          "battingOrder": "6",
+          "playerID": "691016"
+        },
+        {
+          "battingOrder": "7",
+          "playerID": "642851"
+        },
+        {
+          "battingOrder": "8",
+          "playerID": "687231"
+        },
+        {
+          "battingOrder": "9",
+          "playerID": "672016"
+        }
+      ],
+      "home": [
+        {
+          "battingOrder": "1",
+          "playerID": "642708"
+        },
+        {
+          "battingOrder": "2",
+          "playerID": "592450"
+        },
+        {
+          "battingOrder": "3",
+          "playerID": "641355"
+        },
+        {
+          "battingOrder": "4",
+          "playerID": "519317"
+        },
+        {
+          "battingOrder": "5",
+          "playerID": "700250"
+        },
+        {
+          "battingOrder": "6",
+          "playerID": "545341"
+        },
+        {
+          "battingOrder": "7",
+          "playerID": "669224"
+        },
+        {
+          "battingOrder": "8",
+          "playerID": "676609"
+        },
+        {
+          "battingOrder": "9",
+          "playerID": "641857"
+        }
+      ]
+    },
+    "teamIDAway": "20",
+    "probableStartingPitchers": {
+      "away": "605488",
+      "home": "677960"
+    },
+    "home": "NYY"
+  },
+  {
+    "gameID": "20260409_COL@SD",
+    "gameType": "REGULAR_SEASON",
+    "away": "COL",
+    "gameTime": "9:40p",
+    "gameDate": "20260409",
+    "teamIDHome": "23",
+    "gameTime_epoch": "1775785200.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "9",
+    "probableStartingPitchers": {
+      "away": "623474",
+      "home": "681190"
+    },
+    "home": "SD"
+  }
+]

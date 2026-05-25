@@ -1,0 +1,5346 @@
+{
+  "matchups": [
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 119.667
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 78
+      }
+    },
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 134.667
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 65.667
+      }
+    },
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 98
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 106
+      }
+    },
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 48
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 75
+      }
+    },
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 42.667
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 91
+      }
+    },
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 152.333
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 49.667
+      }
+    },
+    {
+      "scoringPeriod": 2,
+      "date": "Fri Mar 27, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 231.667
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 290.333
+      }
+    },
+    {
+      "scoringPeriod": 2,
+      "date": "Fri Mar 27, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 187.333
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 178.333
+      }
+    },
+    {
+      "scoringPeriod": 2,
+      "date": "Fri Mar 27, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 189
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 180
+      }
+    },
+    {
+      "scoringPeriod": 2,
+      "date": "Fri Mar 27, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 182
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 171.667
+      }
+    },
+    {
+      "scoringPeriod": 2,
+      "date": "Fri Mar 27, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 216.333
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 177.667
+      }
+    },
+    {
+      "scoringPeriod": 2,
+      "date": "Fri Mar 27, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 170.667
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 177.667
+      }
+    },
+    {
+      "scoringPeriod": 3,
+      "date": "Mon Mar 30, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 295.333
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 219.333
+      }
+    },
+    {
+      "scoringPeriod": 3,
+      "date": "Mon Mar 30, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 259.333
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 255
+      }
+    },
+    {
+      "scoringPeriod": 3,
+      "date": "Mon Mar 30, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 200.667
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 247.333
+      }
+    },
+    {
+      "scoringPeriod": 3,
+      "date": "Mon Mar 30, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 298.333
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 303.333
+      }
+    },
+    {
+      "scoringPeriod": 3,
+      "date": "Mon Mar 30, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 215
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 224.667
+      }
+    },
+    {
+      "scoringPeriod": 3,
+      "date": "Mon Mar 30, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 257.333
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 179.333
+      }
+    },
+    {
+      "scoringPeriod": 4,
+      "date": "Fri Apr 3, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 260.333
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 312.333
+      }
+    },
+    {
+      "scoringPeriod": 4,
+      "date": "Fri Apr 3, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 234.333
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 269.333
+      }
+    },
+    {
+      "scoringPeriod": 4,
+      "date": "Fri Apr 3, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 180.667
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 205.333
+      }
+    },
+    {
+      "scoringPeriod": 4,
+      "date": "Fri Apr 3, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 339.333
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 261.333
+      }
+    },
+    {
+      "scoringPeriod": 4,
+      "date": "Fri Apr 3, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 228.667
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 278.667
+      }
+    },
+    {
+      "scoringPeriod": 4,
+      "date": "Fri Apr 3, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 170
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 247
+      }
+    },
+    {
+      "scoringPeriod": 5,
+      "date": "Mon Apr 6, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 240
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 193
+      }
+    },
+    {
+      "scoringPeriod": 5,
+      "date": "Mon Apr 6, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 258
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 313.667
+      }
+    },
+    {
+      "scoringPeriod": 5,
+      "date": "Mon Apr 6, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 271.333
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 311.667
+      }
+    },
+    {
+      "scoringPeriod": 5,
+      "date": "Mon Apr 6, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 225.333
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 249.667
+      }
+    },
+    {
+      "scoringPeriod": 5,
+      "date": "Mon Apr 6, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 266.667
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 232.333
+      }
+    },
+    {
+      "scoringPeriod": 5,
+      "date": "Mon Apr 6, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 139.333
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 242.667
+      }
+    },
+    {
+      "scoringPeriod": 6,
+      "date": "Fri Apr 10, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 189.667
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 299.667
+      }
+    },
+    {
+      "scoringPeriod": 6,
+      "date": "Fri Apr 10, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 161.333
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 221.667
+      }
+    },
+    {
+      "scoringPeriod": 6,
+      "date": "Fri Apr 10, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 335.333
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 236.333
+      }
+    },
+    {
+      "scoringPeriod": 6,
+      "date": "Fri Apr 10, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 202.333
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 209.667
+      }
+    },
+    {
+      "scoringPeriod": 6,
+      "date": "Fri Apr 10, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 250
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 138.667
+      }
+    },
+    {
+      "scoringPeriod": 6,
+      "date": "Fri Apr 10, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 323
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 207
+      }
+    },
+    {
+      "scoringPeriod": 7,
+      "date": "Mon Apr 13, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 252.333
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 200.333
+      }
+    },
+    {
+      "scoringPeriod": 7,
+      "date": "Mon Apr 13, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 273.667
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 383
+      }
+    },
+    {
+      "scoringPeriod": 7,
+      "date": "Mon Apr 13, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 236
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 190
+      }
+    },
+    {
+      "scoringPeriod": 7,
+      "date": "Mon Apr 13, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 295.333
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 266
+      }
+    },
+    {
+      "scoringPeriod": 7,
+      "date": "Mon Apr 13, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 265.333
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 304
+      }
+    },
+    {
+      "scoringPeriod": 7,
+      "date": "Mon Apr 13, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 277
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 360.667
+      }
+    },
+    {
+      "scoringPeriod": 8,
+      "date": "Fri Apr 17, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 79.333
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 80.667
+      }
+    },
+    {
+      "scoringPeriod": 8,
+      "date": "Fri Apr 17, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 68.667
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 84
+      }
+    },
+    {
+      "scoringPeriod": 8,
+      "date": "Fri Apr 17, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 92.667
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 106
+      }
+    },
+    {
+      "scoringPeriod": 8,
+      "date": "Fri Apr 17, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 61
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 113
+      }
+    },
+    {
+      "scoringPeriod": 8,
+      "date": "Fri Apr 17, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 120
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 63
+      }
+    },
+    {
+      "scoringPeriod": 8,
+      "date": "Fri Apr 17, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 84
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 125
+      }
+    },
+    {
+      "scoringPeriod": 9,
+      "date": "Mon Apr 20, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 9,
+      "date": "Mon Apr 20, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 9,
+      "date": "Mon Apr 20, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 9,
+      "date": "Mon Apr 20, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 9,
+      "date": "Mon Apr 20, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 9,
+      "date": "Mon Apr 20, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 10,
+      "date": "Fri Apr 24, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 10,
+      "date": "Fri Apr 24, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 10,
+      "date": "Fri Apr 24, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 10,
+      "date": "Fri Apr 24, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 10,
+      "date": "Fri Apr 24, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 10,
+      "date": "Fri Apr 24, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 10,
+      "date": "Fri Apr 24, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 10,
+      "date": "Fri Apr 24, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 10,
+      "date": "Fri Apr 24, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 11,
+      "date": "Mon Apr 27, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 11,
+      "date": "Mon Apr 27, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 11,
+      "date": "Mon Apr 27, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 11,
+      "date": "Mon Apr 27, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 11,
+      "date": "Mon Apr 27, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 11,
+      "date": "Mon Apr 27, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 11,
+      "date": "Mon Apr 27, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 11,
+      "date": "Mon Apr 27, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 11,
+      "date": "Mon Apr 27, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 12,
+      "date": "Fri May 1, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 12,
+      "date": "Fri May 1, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 12,
+      "date": "Fri May 1, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 12,
+      "date": "Fri May 1, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 12,
+      "date": "Fri May 1, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 12,
+      "date": "Fri May 1, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 12,
+      "date": "Fri May 1, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 12,
+      "date": "Fri May 1, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 12,
+      "date": "Fri May 1, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 13,
+      "date": "Mon May 4, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 13,
+      "date": "Mon May 4, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 13,
+      "date": "Mon May 4, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 13,
+      "date": "Mon May 4, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 13,
+      "date": "Mon May 4, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 13,
+      "date": "Mon May 4, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 13,
+      "date": "Mon May 4, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 13,
+      "date": "Mon May 4, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 13,
+      "date": "Mon May 4, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 14,
+      "date": "Fri May 8, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 14,
+      "date": "Fri May 8, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 14,
+      "date": "Fri May 8, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 14,
+      "date": "Fri May 8, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 14,
+      "date": "Fri May 8, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 14,
+      "date": "Fri May 8, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 14,
+      "date": "Fri May 8, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 14,
+      "date": "Fri May 8, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 14,
+      "date": "Fri May 8, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 15,
+      "date": "Mon May 11, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 15,
+      "date": "Mon May 11, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 15,
+      "date": "Mon May 11, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 15,
+      "date": "Mon May 11, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 15,
+      "date": "Mon May 11, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 15,
+      "date": "Mon May 11, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 15,
+      "date": "Mon May 11, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 15,
+      "date": "Mon May 11, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 15,
+      "date": "Mon May 11, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 16,
+      "date": "Fri May 15, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 16,
+      "date": "Fri May 15, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 16,
+      "date": "Fri May 15, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 16,
+      "date": "Fri May 15, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 16,
+      "date": "Fri May 15, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 16,
+      "date": "Fri May 15, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 16,
+      "date": "Fri May 15, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 16,
+      "date": "Fri May 15, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 16,
+      "date": "Fri May 15, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 17,
+      "date": "Mon May 18, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 17,
+      "date": "Mon May 18, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 17,
+      "date": "Mon May 18, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 17,
+      "date": "Mon May 18, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 17,
+      "date": "Mon May 18, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 17,
+      "date": "Mon May 18, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 17,
+      "date": "Mon May 18, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 17,
+      "date": "Mon May 18, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 17,
+      "date": "Mon May 18, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 18,
+      "date": "Fri May 22, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 18,
+      "date": "Fri May 22, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 18,
+      "date": "Fri May 22, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 18,
+      "date": "Fri May 22, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 18,
+      "date": "Fri May 22, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 18,
+      "date": "Fri May 22, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 18,
+      "date": "Fri May 22, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 18,
+      "date": "Fri May 22, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 18,
+      "date": "Fri May 22, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 19,
+      "date": "Mon May 25, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 19,
+      "date": "Mon May 25, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 19,
+      "date": "Mon May 25, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 19,
+      "date": "Mon May 25, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 19,
+      "date": "Mon May 25, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 19,
+      "date": "Mon May 25, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 19,
+      "date": "Mon May 25, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 19,
+      "date": "Mon May 25, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 19,
+      "date": "Mon May 25, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 20,
+      "date": "Fri May 29, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 20,
+      "date": "Fri May 29, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 20,
+      "date": "Fri May 29, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 20,
+      "date": "Fri May 29, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 20,
+      "date": "Fri May 29, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 20,
+      "date": "Fri May 29, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 20,
+      "date": "Fri May 29, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 20,
+      "date": "Fri May 29, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 20,
+      "date": "Fri May 29, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 21,
+      "date": "Mon Jun 1, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 21,
+      "date": "Mon Jun 1, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 21,
+      "date": "Mon Jun 1, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 21,
+      "date": "Mon Jun 1, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 21,
+      "date": "Mon Jun 1, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 21,
+      "date": "Mon Jun 1, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 21,
+      "date": "Mon Jun 1, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 21,
+      "date": "Mon Jun 1, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 21,
+      "date": "Mon Jun 1, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 22,
+      "date": "Fri Jun 5, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 22,
+      "date": "Fri Jun 5, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 22,
+      "date": "Fri Jun 5, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 22,
+      "date": "Fri Jun 5, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 22,
+      "date": "Fri Jun 5, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 22,
+      "date": "Fri Jun 5, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 22,
+      "date": "Fri Jun 5, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 22,
+      "date": "Fri Jun 5, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 22,
+      "date": "Fri Jun 5, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 23,
+      "date": "Mon Jun 8, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 23,
+      "date": "Mon Jun 8, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 23,
+      "date": "Mon Jun 8, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 23,
+      "date": "Mon Jun 8, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 23,
+      "date": "Mon Jun 8, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 23,
+      "date": "Mon Jun 8, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 23,
+      "date": "Mon Jun 8, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 23,
+      "date": "Mon Jun 8, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 23,
+      "date": "Mon Jun 8, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 24,
+      "date": "Fri Jun 12, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 24,
+      "date": "Fri Jun 12, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 24,
+      "date": "Fri Jun 12, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 24,
+      "date": "Fri Jun 12, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 24,
+      "date": "Fri Jun 12, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 24,
+      "date": "Fri Jun 12, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 24,
+      "date": "Fri Jun 12, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 24,
+      "date": "Fri Jun 12, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 24,
+      "date": "Fri Jun 12, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 25,
+      "date": "Mon Jun 15, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 25,
+      "date": "Mon Jun 15, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 25,
+      "date": "Mon Jun 15, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 25,
+      "date": "Mon Jun 15, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 25,
+      "date": "Mon Jun 15, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 25,
+      "date": "Mon Jun 15, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 25,
+      "date": "Mon Jun 15, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 25,
+      "date": "Mon Jun 15, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 25,
+      "date": "Mon Jun 15, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 26,
+      "date": "Fri Jun 19, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 26,
+      "date": "Fri Jun 19, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 26,
+      "date": "Fri Jun 19, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 26,
+      "date": "Fri Jun 19, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 26,
+      "date": "Fri Jun 19, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 26,
+      "date": "Fri Jun 19, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 26,
+      "date": "Fri Jun 19, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 26,
+      "date": "Fri Jun 19, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 27,
+      "date": "Mon Jun 22, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 27,
+      "date": "Mon Jun 22, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 27,
+      "date": "Mon Jun 22, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 27,
+      "date": "Mon Jun 22, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 27,
+      "date": "Mon Jun 22, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 27,
+      "date": "Mon Jun 22, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 27,
+      "date": "Mon Jun 22, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 27,
+      "date": "Mon Jun 22, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 28,
+      "date": "Fri Jun 26, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 28,
+      "date": "Fri Jun 26, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 28,
+      "date": "Fri Jun 26, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 28,
+      "date": "Fri Jun 26, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 28,
+      "date": "Fri Jun 26, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 28,
+      "date": "Fri Jun 26, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 28,
+      "date": "Fri Jun 26, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 28,
+      "date": "Fri Jun 26, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 29,
+      "date": "Mon Jun 29, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 29,
+      "date": "Mon Jun 29, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 29,
+      "date": "Mon Jun 29, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 29,
+      "date": "Mon Jun 29, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 29,
+      "date": "Mon Jun 29, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 29,
+      "date": "Mon Jun 29, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 29,
+      "date": "Mon Jun 29, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 29,
+      "date": "Mon Jun 29, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 30,
+      "date": "Fri Jul 3, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 30,
+      "date": "Fri Jul 3, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 30,
+      "date": "Fri Jul 3, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 30,
+      "date": "Fri Jul 3, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 30,
+      "date": "Fri Jul 3, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 30,
+      "date": "Fri Jul 3, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 30,
+      "date": "Fri Jul 3, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 30,
+      "date": "Fri Jul 3, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 31,
+      "date": "Mon Jul 6, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 31,
+      "date": "Mon Jul 6, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 31,
+      "date": "Mon Jul 6, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 31,
+      "date": "Mon Jul 6, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 31,
+      "date": "Mon Jul 6, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 31,
+      "date": "Mon Jul 6, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 31,
+      "date": "Mon Jul 6, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 31,
+      "date": "Mon Jul 6, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 32,
+      "date": "Fri Jul 10, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 32,
+      "date": "Fri Jul 10, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 32,
+      "date": "Fri Jul 10, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 32,
+      "date": "Fri Jul 10, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 32,
+      "date": "Fri Jul 10, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 32,
+      "date": "Fri Jul 10, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 33,
+      "date": "Mon Jul 13, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 33,
+      "date": "Mon Jul 13, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 33,
+      "date": "Mon Jul 13, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 33,
+      "date": "Mon Jul 13, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 33,
+      "date": "Mon Jul 13, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 33,
+      "date": "Mon Jul 13, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 34,
+      "date": "Mon Jul 20, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 34,
+      "date": "Mon Jul 20, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 34,
+      "date": "Mon Jul 20, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 34,
+      "date": "Mon Jul 20, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 34,
+      "date": "Mon Jul 20, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 34,
+      "date": "Mon Jul 20, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 35,
+      "date": "Fri Jul 24, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 35,
+      "date": "Fri Jul 24, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 35,
+      "date": "Fri Jul 24, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 35,
+      "date": "Fri Jul 24, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 35,
+      "date": "Fri Jul 24, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 35,
+      "date": "Fri Jul 24, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 36,
+      "date": "Mon Jul 27, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 36,
+      "date": "Mon Jul 27, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 36,
+      "date": "Mon Jul 27, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 36,
+      "date": "Mon Jul 27, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 36,
+      "date": "Mon Jul 27, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 36,
+      "date": "Mon Jul 27, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 37,
+      "date": "Fri Jul 31, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 37,
+      "date": "Fri Jul 31, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 37,
+      "date": "Fri Jul 31, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 37,
+      "date": "Fri Jul 31, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 37,
+      "date": "Fri Jul 31, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 37,
+      "date": "Fri Jul 31, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 38,
+      "date": "Mon Aug 3, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 38,
+      "date": "Mon Aug 3, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 38,
+      "date": "Mon Aug 3, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 38,
+      "date": "Mon Aug 3, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 38,
+      "date": "Mon Aug 3, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 38,
+      "date": "Mon Aug 3, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 39,
+      "date": "Fri Aug 7, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 39,
+      "date": "Fri Aug 7, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 39,
+      "date": "Fri Aug 7, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 39,
+      "date": "Fri Aug 7, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 39,
+      "date": "Fri Aug 7, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 39,
+      "date": "Fri Aug 7, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 40,
+      "date": "Mon Aug 10, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 40,
+      "date": "Mon Aug 10, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 40,
+      "date": "Mon Aug 10, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 40,
+      "date": "Mon Aug 10, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 40,
+      "date": "Mon Aug 10, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 40,
+      "date": "Mon Aug 10, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 41,
+      "date": "Fri Aug 14, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 41,
+      "date": "Fri Aug 14, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 41,
+      "date": "Fri Aug 14, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 41,
+      "date": "Fri Aug 14, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 41,
+      "date": "Fri Aug 14, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 41,
+      "date": "Fri Aug 14, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 42,
+      "date": "Mon Aug 17, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 42,
+      "date": "Mon Aug 17, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 42,
+      "date": "Mon Aug 17, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 42,
+      "date": "Mon Aug 17, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 42,
+      "date": "Mon Aug 17, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 42,
+      "date": "Mon Aug 17, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 43,
+      "date": "Fri Aug 21, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 43,
+      "date": "Fri Aug 21, 2026",
+      "awayTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 43,
+      "date": "Fri Aug 21, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 43,
+      "date": "Fri Aug 21, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 43,
+      "date": "Fri Aug 21, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 43,
+      "date": "Fri Aug 21, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 44,
+      "date": "Mon Aug 24, 2026",
+      "awayTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 44,
+      "date": "Mon Aug 24, 2026",
+      "awayTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 44,
+      "date": "Mon Aug 24, 2026",
+      "awayTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 44,
+      "date": "Mon Aug 24, 2026",
+      "awayTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 44,
+      "date": "Mon Aug 24, 2026",
+      "awayTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 44,
+      "date": "Mon Aug 24, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 45,
+      "date": "Fri Aug 28, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 45,
+      "date": "Fri Aug 28, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 45,
+      "date": "Fri Aug 28, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 45,
+      "date": "Fri Aug 28, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 45,
+      "date": "Fri Aug 28, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    },
+    {
+      "scoringPeriod": 45,
+      "date": "Fri Aug 28, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "points": 0,
+        "adjustment": 0,
+        "total": 0
+      }
+    }
+  ],
+  "teams": {
+    "397vx1zsmhairbok": {
+      "name": "Hong Kong Dire Wolves",
+      "logoUrl512": "https://fantraximg.com/logos/tu9/tmLogo_tu954ck3mnxq6r7b_512.webp",
+      "shortName": "HKW"
+    },
+    "5liza9y3mhairboj": {
+      "name": "Fall River Wicked Otters",
+      "logoUrl512": "https://fantraximg.com/logos/r81/tmLogo_r81vnme9mnxon2t7_512.webp",
+      "shortName": "FRO"
+    },
+    "6c3qqgj9mhairboo": {
+      "name": "Whaling City Octopuses",
+      "logoUrl512": "https://fantraximg.com/logos/8nw/tmLogo_8nwah38gmnxs09fn_512.webp",
+      "shortName": "WCO"
+    },
+    "7spm4ihomhairbop": {
+      "name": "New Bedford Codfathers",
+      "logoUrl512": "https://fantraximg.com/logos/mk7/tmLogo_mk7s174xmnxq8n14_512.webp",
+      "shortName": "NBC"
+    },
+    "f2e7itnimhairbol": {
+      "name": "Parsippany Penguins",
+      "logoUrl512": "https://fantraximg.com/logos/aqk/tmLogo_aqkf2f8rmmo1mr5m_512.webp",
+      "shortName": "PPP"
+    },
+    "f9a3hseymlec784v": {
+      "name": "Seekonk Snowmen",
+      "logoUrl512": "https://fantraximg.com/logos/qy4/tmLogo_qy46embimnytzxpu_512.webp",
+      "shortName": "SKS"
+    },
+    "fowe0sxcmhairboi": {
+      "name": "Corpus Christi Blue Ghosts",
+      "logoUrl512": "https://fantraximg.com/logos/m7b/tmLogo_m7bcmarbmnxrxy3z_512.webp",
+      "shortName": "CBG"
+    },
+    "fukfyy5jmhairbom": {
+      "name": "Astoria Angry Clams",
+      "logoUrl512": "https://fantraximg.com/logos/850/tmLogo_8506y27vmnxq4xhv_512.webp",
+      "shortName": "ACD"
+    },
+    "hblx3vpumhairboo": {
+      "name": "East Providence Balkers",
+      "logoUrl512": "https://fantraximg.com/logos/sco/tmLogo_scovtc6kmnxoj4ur_512.webp",
+      "shortName": "EPB"
+    },
+    "lglf8tkemhairbon": {
+      "name": "Sacramento River Rats",
+      "logoUrl512": "https://fantraximg.com/logos/4cl/tmLogo_4clqrp2bmnxpo7so_512.webp",
+      "shortName": "SRR"
+    },
+    "qsnercq5mlh2ngul": {
+      "name": "Cranston Crusaders",
+      "logoUrl512": "https://fantraximg.com/logos/v99/tmLogo_v99py6nnmnxoiib6_512.webp",
+      "shortName": "CCS"
+    },
+    "rk3t1r5jmhairboh": {
+      "name": "Friday Harbor Hitmen",
+      "logoUrl512": "https://fantraximg.com/logos/7ic/tmLogo_7icfm1uemnxo1a2t_512.webp",
+      "shortName": "FHH"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "matchups": [
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "hblx3vpumhairboo",
+        "teamName": "East Providence Balkers",
+        "points": 0,
+        "adjustment": 0,
+        "total": 119.667
+      },
+      "homeTeam": {
+        "teamId": "fowe0sxcmhairboi",
+        "teamName": "Corpus Cristi Blue Ghosts",
+        "points": 0,
+        "adjustment": 0,
+        "total": 78
+      }
+    },
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "fukfyy5jmhairbom",
+        "teamName": "Astoria Angry Clams",
+        "points": 0,
+        "adjustment": 0,
+        "total": 134.667
+      },
+      "homeTeam": {
+        "teamId": "lglf8tkemhairbon",
+        "teamName": "Sacramento River Rats",
+        "points": 0,
+        "adjustment": 0,
+        "total": 65.667
+      }
+    },
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "5liza9y3mhairboj",
+        "teamName": "Fall River Wicked Otters",
+        "points": 0,
+        "adjustment": 0,
+        "total": 98
+      },
+      "homeTeam": {
+        "teamId": "6c3qqgj9mhairboo",
+        "teamName": "Whaling City Octopuses",
+        "points": 0,
+        "adjustment": 0,
+        "total": 106
+      }
+    },
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "7spm4ihomhairbop",
+        "teamName": "New Bedford Codfathers",
+        "points": 0,
+        "adjustment": 0,
+        "total": 48
+      },
+      "homeTeam": {
+        "teamId": "397vx1zsmhairbok",
+        "teamName": "Hong Kong Dire Wolves",
+        "points": 0,
+        "adjustment": 0,
+        "total": 75
+      }
+    },
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "f9a3hseymlec784v",
+        "teamName": "Seekonk Snowmen",
+        "points": 0,
+        "adjustment": 0,
+        "total": 42.667
+      },
+      "homeTeam": {
+        "teamId": "qsnercq5mlh2ngul",
+        "teamName": "Cranston Crusaders",
+        "points": 0,
+        "adjustment": 0,
+        "total": 91
+      }
+    },
+    {
+      "scoringPeriod": 1,
+      "date": "Wed Mar 25, 2026",
+      "awayTeam": {
+        "teamId": "f2e7itnimhairbol",
+        "teamName": "Parsipanny Penguins",
+        "points": 0,
+        "adjustment": 0,
+        "total": 152.333
+      },
+      "homeTeam": {
+        "teamId": "rk3t1r5jmhairboh",
+        "teamName": "Friday Harbor Hitmen",
+        "points": 0,
+        "adjustment": 0,
+        "total": 49.667
+      }
+    }
+  ]
+}
