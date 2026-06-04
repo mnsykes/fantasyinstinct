@@ -1,0 +1,18 @@
+Creating auth client...
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /playerPool               --> main.main.func1 (4 handlers)
+[GIN-debug] GET    /standings                --> main.main.func2 (4 handlers)
+[GIN-debug] GET    /league                   --> main.main.func3 (4 handlers)
+[GIN-debug] GET    /transactions             --> main.main.func4 (4 handlers)
+[GIN-debug] GET    /matchups                 --> main.main.func5 (4 handlers)
+[GIN-debug] GET    /roster/:id               --> main.main.func6 (4 handlers)
+[GIN-debug] GET    /current                  --> main.main.func7 (4 handlers)
+[GIN-debug] GET    /rankings                 --> main.main.func8 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://github.com/gin-gonic/gin/blob/master/docs/doc.md#dont-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :4000

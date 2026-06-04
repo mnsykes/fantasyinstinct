@@ -1,0 +1,72 @@
+{
+  "powerRankings": [
+    {
+      "scoringPeriod": ,
+      "teamRows": [
+        {
+          "teamId": ,
+          "teamName": ,
+          "periodPoints": ,
+          "periodWin": ,
+          "periodWinVsAll":
+        }
+      ]
+    }
+  ],
+  ""
+}
+
+Create weekly power rankings for a fantasy baseball league based on the scheduled matchups
+for each scoring period.
+please use the fantrax api collection that was previously created
+and the GO auth client that is already in place
+
+I would like a JSON object returned
+1. For every scoring period I would like the following data returned:
+  scoringPeriod,
+  date,
+  teamId,
+  teamName,
+  logoUrl,
+  periodPoints,
+  periodWin,
+  periodWinsVsAll,
+  totalPoints,
+  totalWins,
+  totalWinsVsAll,
+  pointsPowerRank,
+  winsPowerRank,
+  winsVsAllPowerRank,
+  totalPowerRank,
+  change
+
+2. Definitions
+periodPoints: total points scored by an individual team during a scoring period. If a
+        team has more than one matchup in a scoring period please do not total the points.
+        The score should only be counted once.
+periodWin: whichever team in the matchup that has the highest score wins the matchup. If a
+team has multiple matchups in the same scoring period they will accumulate all wins for
+that period. For example, if a team has two matchups in a scoring period and they win
+both matchups then their periodWin total will equal 2
+periodWinsVsAll: for each scoring period please compare all teams' total scores against
+one another. A team will accumulate wins for every other team they have a higher score than
+in that period. For example a team has a higher score than 8 other teams, in this instance their
+total for periodWinsVsAll would be 8. The lowest scoring team will have 0.
+totalPoints: this should be a total of all period points accumulated from every previous
+scoring period and including the current scoring period
+totalWins: this should be a total of all period wins accumulated from every previous
+scoring period and including the current scoring period
+totalWinsVsAll: this should be a total of all period winsVsAll accumulated from every previous
+scoring period and including the current scoring period
+pointsPowerRank: rank each team based on totalPoints. If scoringPeriod equals 1 then
+rank the teams based on periodPoints. Base the rank on the number of teams in the league.
+For this league there are 12 teams so the highest rank should be 12. The highest scoring team
+will be ranked with 12 and the lowest scoring team will be ranked with 1. If an even number of teams are tied
+in totalPoints then split the ranking for those teams and then skip a ranking for then next team.
+For example two teams tie for the highest total points, their rank will each be 11.5 and the next
+team would be ranked 10. If an odd number of teams has the same total then they will all have
+the same rank and it will not be split.
+winsPowerRank: use the same rules for pointsPowerRank but base the rankings on totalWins
+winsVsAllPowerRank: same rules as pointsPowerRank but base the rankings on totalWinsVsAll
+totalPowerRank = pointsPowerRank + winsPowerRank + winsVsAllPowerRank
+change: difference between totalPowerRank from the previous period to the current period
