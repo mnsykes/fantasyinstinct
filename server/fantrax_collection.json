@@ -1,0 +1,253 @@
+{
+  "info": {
+    "_postman_id": "c3d4e5f6-a7b8-9012-cdef-012345678901",
+    "name": "Fantrax Auth + API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "https://www.fantrax.com",
+      "type": "string"
+    },
+    {
+      "key": "leagueId",
+      "value": "er2bf6v3mhairboa",
+      "type": "string"
+    },
+    {
+      "key": "fullCookieString",
+      "value": "",
+      "type": "string"
+    },
+    {
+      "key": "sessionToken",
+      "value": "",
+      "type": "string"
+    },
+    {
+      "key": "userId",
+      "value": "",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "1 - Login (Auth)",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "const body = pm.response.json();",
+              "console.log('Full login response:', JSON.stringify(body, null, 2));",
+              "",
+              "pm.test('Status is 200', function () {",
+              "    pm.response.to.have.status(200);",
+              "});",
+              "",
+              "pm.test('No WARNING_NOT_LOGGED_IN', function () {",
+              "    pm.expect(body.pageError.code).to.not.equal('WARNING_NOT_LOGGED_IN');",
+              "});",
+              "",
+              "// Capture all cookies",
+              "const allCookies = pm.cookies.toObject();",
+              "console.log('All cookies:', JSON.stringify(allCookies));",
+              "",
+              "const fullCookieString = Object.entries(allCookies)",
+              "    .map(([k, v]) => `${k}=${v}`)",
+              "    .join('; ');",
+              "",
+              "pm.collectionVariables.set('fullCookieString', fullCookieString);",
+              "console.log('Cookie string saved:', fullCookieString);",
+              "",
+              "// Capture session data from response body",
+              "if (body.responses && body.responses[0] && body.responses[0].data) {",
+              "    const data = body.responses[0].data;",
+              "    if (data.token) {",
+              "        pm.collectionVariables.set('sessionToken', data.token);",
+              "        console.log('Token captured:', data.token);",
+              "    }",
+              "    if (data.userId) {",
+              "        pm.collectionVariables.set('userId', data.userId);",
+              "        console.log('UserId captured:', data.userId);",
+              "    }",
+              "}"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json"
+          },
+          {
+            "key": "Referer",
+            "value": "https://www.fantrax.com/newui/fantasy/miscellaneous.go?leagueId={{leagueId}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"at\": 0,\n  \"av\": \"0.0\",\n  \"dt\": 0,\n  \"msgs\": [\n    {\n      \"method\": \"login\",\n      \"data\": {\n        \"username\": \"{{username}}\",\n        \"password\": \"{{password}}\"\n      }\n    }\n  ],\n  \"refUrl\": \"https://www.fantrax.com/newui/fantasy/miscellaneous.go?leagueId={{leagueId}}\",\n  \"tz\": \"UTC\",\n  \"uiv\": 3,\n  \"v\": \"179.0.1\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/fxpa/req?leagueId={{leagueId}}",
+          "host": ["{{baseUrl}}"],
+          "path": ["fxpa", "req"],
+          "query": [
+            {
+              "key": "leagueId",
+              "value": "{{leagueId}}"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "2 - getLeagueHomeInfo",
+      "event": [
+        {
+          "listen": "prerequest",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "const cookie = pm.collectionVariables.get('fullCookieString');",
+              "if (!cookie) {",
+              "    console.warn('WARNING: Cookie is empty. Run Login first.');",
+              "} else {",
+              "    console.log('Using cookie:', cookie);",
+              "}"
+            ]
+          }
+        },
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('Status is 200', function () {",
+              "    pm.response.to.have.status(200);",
+              "});",
+              "pm.test('No WARNING_NOT_LOGGED_IN', function () {",
+              "    const body = pm.response.json();",
+              "    pm.expect(body.pageError.code).to.not.equal('WARNING_NOT_LOGGED_IN');",
+              "});",
+              "console.log('Response:', pm.response.text());"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json"
+          },
+          {
+            "key": "Cookie",
+            "value": "{{fullCookieString}}"
+          },
+          {
+            "key": "Referer",
+            "value": "https://www.fantrax.com/newui/fantasy/miscellaneous.go?leagueId={{leagueId}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"msgs\": [\n    {\n      \"method\": \"getLeagueHomeInfo\",\n      \"data\": {}\n    }\n  ]\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/fxpa/req?leagueId={{leagueId}}",
+          "host": ["{{baseUrl}}"],
+          "path": ["fxpa", "req"],
+          "query": [
+            {
+              "key": "leagueId",
+              "value": "{{leagueId}}"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "3 - getStandings",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test('Status is 200', function () {",
+              "    pm.response.to.have.status(200);",
+              "});",
+              "console.log('Response:', pm.response.text());"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json"
+          },
+          {
+            "key": "Cookie",
+            "value": "{{fullCookieString}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"msgs\": [\n    {\n      \"method\": \"getStandings\",\n      \"data\": {\n        \"leagueId\": \"{{leagueId}}\",\n        \"view\": \"ALL\"\n      }\n    }\n  ]\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/fxpa/req?leagueId={{leagueId}}",
+          "host": ["{{baseUrl}}"],
+          "path": ["fxpa", "req"],
+          "query": [
+            {
+              "key": "leagueId",
+              "value": "{{leagueId}}"
+            }
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
