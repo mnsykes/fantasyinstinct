@@ -13,6 +13,7 @@ const PeriodSelect = () => {
 
     return (
         <>
+
             <div className="btn-toolbar mb-3" role="toolbar" aria-label="Toolbar with button groups">
                 <div className="btn-group mr-2" role="group" aria-label="First group">
                     {data && data.map((period) => (

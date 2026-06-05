@@ -1,5 +1,4 @@
 import type { Player } from "../types/player";
-import config from "../config";
 import { useQuery } from "@tanstack/react-query";
 import axios, { AxiosError } from "axios";
 
@@ -18,13 +17,12 @@ const teamArray = [
     "hblx3vpumhairboo"
 ]
 const aryPlayerList = []
-
+const apiUrl = import.meta.env.VITE_API_URL;
 const useFetchPlayers = ()=> {
-    const url = "http:localhost:4000/playerPool"
     return useQuery<Player[], AxiosError>({
         queryKey: ["Player"],
         queryFn: async () => {
-            const response = await fetch('http://localhost:4000/playerPool')
+            const response = await fetch(`${apiUrl}/playerPool`)
             if (!response.ok) throw new Error('Failed to fetch Player');
 
             return response.json()
@@ -36,7 +34,7 @@ const useFetchPlayer = (id: number) => {
     return useQuery<Player[], AxiosError>({
         queryKey: ["player", id],
         queryFn: () =>
-            axios.get(`${config.baseApiUrl}/players/${id}`).then((response) => response.data),
+            axios.get(`${apiUrl}/players/${id}`).then((response) => response.data),
     })
 }
 

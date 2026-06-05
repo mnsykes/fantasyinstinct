@@ -1,12 +1,12 @@
 import axios from "axios";
-import config from "../config";
 import type { Team } from "../types/teams";
 import type { RosterTable } from "../types/rosterTable";
 import type { ScoringPeriod } from "../types/scoringPeriod";
 import type { PowerRankingPodium } from "../types/powerRankings.ts";
 
+const apiUrl = import.meta.env.VITE_API_URL;
 const getTeamInfoById = async (teamId: string): Promise<Team> => {
-    const url = `${config.baseApiUrl}/roster/${teamId}`;
+    const url = `${apiUrl}/roster/${teamId}`;
 
     const response = await axios.get(url);
     if (!response.data) throw new Error ("Could not find matchups");
@@ -51,7 +51,7 @@ const getTeamInfoById = async (teamId: string): Promise<Team> => {
 }
 
 const getTeamRosterById = async (teamId: string): Promise<RosterTable> => {
-    const url = `${config.baseApiUrl}/roster/${teamId}`;
+    const url = `${apiUrl}/roster/${teamId}`;
 
     const response = await axios.get(url);
     if (!response.data) throw new Error ("Could not find matchups");
@@ -78,7 +78,7 @@ const getTeamRosterById = async (teamId: string): Promise<RosterTable> => {
 };
 
 const getSalaryInfoById = async (teamId: string) => {
-    const url = `${config.baseApiUrl}/roster/${teamId}`
+    const url = `${apiUrl}/roster/${teamId}`
     const response = await axios.get(url);
     if (!response.data) throw new Error ("Could not find matchups");
     const { responses: [
@@ -143,9 +143,9 @@ const processWeeklyPowerRankings = async (response: any) => {
 }
 
 const getPowerRankingsByPeriod = async (period: number) => {
-    console.log("function", period)
+
     if (period != null) {
-        const response = await axios.get(`${config.baseApiUrl}/rankings/period/${period}`)
+        const response = await axios.get(`${apiUrl}/rankings/period/${period}`)
 
         return response.data
     }
@@ -153,19 +153,19 @@ const getPowerRankingsByPeriod = async (period: number) => {
 }
 
 const getPowerRankings = async () => {
-    let response = await axios.get(`${config.baseApiUrl}/rankings/latest`)
-console.log(response.data)
+    let response = await axios.get(`${apiUrl}/rankings/latest`)
+
     return response.data
 }
 
 const getCurrentPowerRankings = async () => {
-        const response = await axios.get(`${config.baseApiUrl}/rankings/latest`)
+        const response = await axios.get(`${apiUrl}/rankings/latest`)
 
         return response.data.rankings;
 }
 
 const getAllPowerRankings = async () => {
-    const response = await axios.get(`${config.baseApiUrl}/rankings`)
+    const response = await axios.get(`${apiUrl}/rankings`)
 
     return response.data.periods
 }
@@ -191,7 +191,7 @@ const getScoringPeriod = async (matchups) => {
 }
 
 const getMatchups = async () => {
-    const url = `${config.baseApiUrl}/matchups`;
+    const url = `${apiUrl}/matchups`;
     const response = await axios.get(url);
     if (!response.data) throw new Error ("Could not find matchups");
 

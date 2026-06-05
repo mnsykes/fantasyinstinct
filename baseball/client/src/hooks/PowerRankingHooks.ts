@@ -1,14 +1,15 @@
-import config from "../config"
+import { useConfig } from "../contexts/ConfigContext"
 import { useQuery } from "@tanstack/react-query";
 import { processWeeklyPowerRankings, getMatchups, getPowerRankings, getAllPowerRankings, getPowerRankingsByPeriod, getCurrentPowerRankings } from "../api/FantraxApi"
 import axios from "axios";
 
-
 const useFetchCurrentScoringPeriod = () => {
+    const { apiUrl } = useConfig()
+
     return useQuery({
         queryKey: ["currentScoringPeriod"],
         queryFn: async () => {
-            const response = await axios.get(`${config.baseApiUrl}/rankings/latest`)
+            const response = await axios.get(`${apiUrl}/rankings/latest`)
             const currentScoringPeriod = response.data.scoringPeriod
 
             return currentScoringPeriod
@@ -17,6 +18,7 @@ const useFetchCurrentScoringPeriod = () => {
 }
 
 const useFetchPowerRankingPeriods = () => {
+
     return useQuery({
         queryKey: ["powerRankingPeriods"],
         queryFn: getAllPowerRankings
@@ -38,10 +40,12 @@ const useFetchCurrentPowerRankings = () => {
 }
 
 const useFetchPowerRankingsByTeam = (teamId: string) => {
+    const { apiUrl } = useConfig()
+
     return useQuery({
         queryKey: ["teamPowerRankings"],
         queryFn: async () => {
-            const response = await axios.get(`${config.baseApiUrl}/rankings/team/${teamId}`)
+            const response = await axios.get(`${apiUrl}/rankings/team/${teamId}`)
             const team = response.data
 
             return team
@@ -50,10 +54,12 @@ const useFetchPowerRankingsByTeam = (teamId: string) => {
 }
 
 const useFetchWeeklyPowerRankings = () => {
+    const { apiUrl } = useConfig()
+
     return useQuery({
         queryKey: ["weeklyPowerRankings"],
         queryFn: async () => {
-            const response = await axios.get(`${config.baseApiUrl}/rankings`)
+            const response = await axios.get(`${apiUrl}/rankings`)
 
             const data = await processWeeklyPowerRankings(response.data)
             return data
@@ -67,7 +73,7 @@ const useFetchPowerRankingsByPeriod = (scoringPeriod: null) => {
         queryFn: async () => {
 
             const periodRankings = await getPowerRankingsByPeriod
-console.log(scoringPeriod)
+
             return periodRankings
         }
     })

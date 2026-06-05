@@ -1,4 +1,3 @@
-import config from "../config";
 import axios, { AxiosError } from "axios";
 import type { Team } from "../types/teams";
 import type { RosterTable } from "../types/teams";
@@ -7,8 +6,12 @@ import getTeamInfoById, { getTeamRosterById } from "../api/FantraxApi";
 
 const aryTeamInfo = [];
 
+const apiUrl = import.meta.env.VITE_API_URL;
+const fantraxApiUrl = import.meta.env.VITE_FANTRAX_API_URL;
+const leagueId = import.meta.env.VITE_FANTRAX_LEAGUE_ID;
+
 const useFetchTeams = ()=> {
-   const url =`${config.FANTRAX_API_URL}/getLeagueInfo?leagueId=${config.FANTRAX_LEAGUE_ID}`
+   const url =`${fantraxApiUrl}/getLeagueInfo?leagueId=${leagueId}`
     return useQuery<Team[]>({
         queryKey: ["teams"],
         queryFn: () =>
@@ -22,7 +25,7 @@ const useFetchTeams = ()=> {
 };
 
 const useFetchRosterTable = (id: string) => {
-    const url = `http://localhost:4000/roster/${id}`
+    const url = `${apiUrl}/roster/${id}`
 
     return useQuery<RosterTable>({
         queryKey: ["roster"],
@@ -41,7 +44,7 @@ const useFetchPlayersByTeam = (id: string) => {
     return useQuery<Team[], AxiosError>({
         queryKey: ["teams", id],
         queryFn: () =>
-            axios.get(`${config.FANTRAX_API_URL}/getLeagueInfo?leagueId=${config.FANTRAX_LEAGUE_ID}`)
+            axios.get(`${fantraxApiUrl}/getLeagueInfo?leagueId=${leagueId}`)
                 .then((response) => {
                     return response.data.teamInfo;
                 })

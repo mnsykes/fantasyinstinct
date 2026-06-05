@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import config from "../../config"
 import useFetchTeams, { useFetchPlayersByTeam } from "../../hooks/TeamsHooks";
 
 const TradeMachine = () => {

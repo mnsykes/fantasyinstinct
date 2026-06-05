@@ -1,26 +1,18 @@
-import { useFetchPowerRankingsByPeriod } from "../../hooks/PowerRankingHooks.ts";
 import PeriodSelect from "./PeriodSelect.tsx";
 import PowerRankingTable from "../tables/PowerRankingTable.tsx"
 import WeeklyResults from "../tables/WeeklyPowerRankingTable.tsx"
 import PlayoffWatch from "./PlayoffWatch.tsx";
 import { useContext, useEffect, useState } from "react";
-import {ScoringPeriodContext} from "../../contexts/ScoringPeriodContext.tsx";
-import axios from "axios";
-import config from "../../config.ts";
-// import {getCurrentPowerRankings} from "../../api/FantraxApi.ts";
-// import { useFetchCurrentScoringPeriod } from "../../hooks/PowerRankingHooks.ts";
-
-
+import { ScoringPeriodContext } from "../../contexts/ScoringPeriodContext.tsx";
+import { useConfig } from "../../contexts/ConfigContext.tsx"
 
 const PowerRankingsWrapper = () => {
     const { scoringPeriod } = useContext(ScoringPeriodContext)
     const [ data, setData ] = useState()
-
-    // const { data } = useFetchPowerRankingsByPeriod(scoringPeriod)
+    const { apiUrl } = useConfig()
 
     useEffect(() => {
-        console.log(scoringPeriod);
-        let url = `${config.baseApiUrl}/rankings/`
+        let url = `${apiUrl}/rankings/`
 
         if (scoringPeriod == undefined || scoringPeriod == null) {
             url += `latest`;
@@ -33,6 +25,7 @@ const PowerRankingsWrapper = () => {
                                             .then(data => setData(data))
         setData(periodData.data);
     }, [scoringPeriod]);
+
     return (
         <>
             <div className="container">

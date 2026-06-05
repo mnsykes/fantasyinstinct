@@ -1,5 +1,4 @@
 import './App.css'
-
 import Home from './components/home/Home'
 import Nav from './components/nav/Nav'
 import OwnerList from './components/owner/Owner'
@@ -14,14 +13,14 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Route, Routes } from "react-router-dom"
 
 const queryClient = new QueryClient({
-    // defaultOptions: {
-    //     queries: {
-    //         staleTime: 5 * 60 * 100,
-    //         gcTime: 10 * 60 * 1000,
-    //         retry: 3,
-    //         refetchOnWindowFocus: true,
-    //     }
-    // }
+    defaultOptions: {
+        queries: {
+            staleTime: 5 * 60 * 100,
+            gcTime: 10 * 60 * 1000,
+            retry: 3,
+            refetchOnWindowFocus: true,
+        }
+    }
 });
 
 export default function App() {
